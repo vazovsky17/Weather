@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paddings -->
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+
+    <!-- Margins -->
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_10">10sp</dimen>
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_24">24sp</dimen>
+    <dimen name="text_26">26sp</dimen>
+    <dimen name="text_40">40sp</dimen>
+
+    <dimen name="titleSize">18sp</dimen>
+    <dimen name="tabsSpace">8dp</dimen>
+
+    <dimen name="base_button_min_height">48dp</dimen>
+    <dimen name="small_button_min_height">36dp</dimen>
+
+    <dimen name="base_button_vertical_padding">12dp</dimen>
+    <dimen name="small_button_vertical_padding">7dp</dimen>
+
+    <!-- State View Flipper -->
+    <dimen name="error_state_animation_horizontal_margin">72dp</dimen>
+    <dimen name="empty_state_animation_horizontal_margin">72dp</dimen>
+    <dimen name="scale_image_height">400dp</dimen>
+</resources>

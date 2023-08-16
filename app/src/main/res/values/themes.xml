@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Weather" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <item name="colorPrimary">@color/majorelle_blue</item>
+        <item name="colorSecondary">@color/french_sky_blue</item>
+        <item name="rippleColor">@color/anti_flash_white</item>
+
+        <item name="appBarLayoutStyle">@style/AppBarStyle</item>
+        <item name="toolbarStyle">@style/ToolbarStyle</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.App.Corners" parent="">
+        <item name="cornerSize">20dp</item>
+    </style>
+</resources>

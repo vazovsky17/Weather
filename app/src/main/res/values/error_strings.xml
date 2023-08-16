@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common -->
+    <string name="loading_dialog_text">Подождите, пожалуйста… </string>
+
+    <string name="error_retry">Повторить</string>
+    <string name="error_internet_message">Не удалось получить данные, попробуйте позже</string>
+    <string name="error_auth_401">Что-то пошло не так. Необходимо авторизоваться повторно</string>
+    <string name="error_button_label">Обновить</string>
+    <string name="error_paging">Ошибка. Попробуйте обновить</string>
+
+    <!-- Network -->
+    <string name="error_no_network_title">Нет подключения к сети</string>
+    <string name="error_no_network_description">Проверьте мобильное соединение или подключение Wi-Fi</string>
+
+    <!-- Something wrong -->
+    <string name="error_something_wrong_title">Что-то пошло не так</string>
+    <string name="error_something_wrong_description">Попробуйте обновить страницу</string>
+</resources>

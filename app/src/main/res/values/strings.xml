@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="weather_city">Saratov</string>
+
+    <string name="weather_current_temperature_prefix">Current temperature</string>
+    <string name="weather_current_temperature_postfix">°C</string>
+    <string name="weather_avg_temperature_prefix">Average temperature</string>
+    <string name="weather_avg_temperature_postfix">°C</string>
+    <string name="weather_max_wind_prefix">Max wind</string>
+    <string name="weather_max_wind_postfix">kph</string>
+    <string name="weather_avg_humidity_prefix">Average humidity</string>
+    <string name="weather_avg_humidity_postfix">%</string>
+
+    <!-- Empty View -->
+    <string name="empty_default_title">There is nothing here yet</string>
+    <string name="empty_default_message">Try to update</string>
+    <string name="empty_update">Update</string>
+</resources>
